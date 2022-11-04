@@ -20,6 +20,7 @@ class MyApp extends StatelessWidget {
           title: const Text('Start-up Name Generator'),
           backgroundColor: const Color.fromARGB(229, 41, 174, 63),
         ),
+        backgroundColor: Color.fromARGB(227, 153, 148, 254),
         body: const Center(
           child: RandomWords(),
         ),
